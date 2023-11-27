@@ -1,75 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
+cybersecurity-portfolio/
+│
+├── project1/
+│   ├── code/
+│   ├── documentation/
+│   ├── report.pdf
+│   └── README.md
+│
+├── project2/
+│   ├── code/
+│   ├── documentation/
+│   ├── report.pdf
+│   └── README.md
+│
+├── project3/
+│   ├── code/
+│   ├── documentation/
+│   ├── report.pdf
+│   └── README.md
+│
+├── images/
+│   └── screenshot1.png
+│
+├── README.md
+├── .gitignore
+└── LICENSE
+# Cybersecurity Portfolio
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Cybersecurity Portfolio</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f5f5f5;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
+Welcome to my cybersecurity portfolio! This repository showcases my projects and contributions in the field of cybersecurity.
 
-        header {
-            background-color: #007bff;
-            color: #fff;
-            padding: 1em;
-        }
+## Projects
 
-        section {
-            margin: 2em;
-        }
+### Project 1: Title
 
-        h1,
-        h2 {
-            color: #007bff;
-        }
+- **Description:** Brief description of the project.
+- **Code:** [Link to Code](project1/code)
+- **Documentation:** [Link to Documentation](project1/documentation)
+- **Report:** [Link to Report](project1/report.pdf)
 
-        p {
-            line-height: 1.6em;
-        }
+### Project 2: Title
 
-        footer {
-            background-color: #333;
-            color: #fff;
-            padding: 1em;
-        }
-    </style>
-</head>
+- **Description:** Brief description of the project.
+- **Code:** [Link to Code](project2/code)
+- **Documentation:** [Link to Documentation](project2/documentation)
+- **Report:** [Link to Report](project2/report.pdf)
 
-<body>
-    <header>
-        <h1>Your Name</h1>
-        <p>Cybersecurity Professional</p>
-    </header>
+### Project 3: Title
 
-    <section>
-        <h2>About Me</h2>
-        <p>Welcome to my cybersecurity portfolio. I am passionate about securing digital landscapes and ensuring
-            robust online protection.</p>
-    </section>
+- **Description:** Brief description of the project.
+- **Code:** [Link to Code](project3/code)
+- **Documentation:** [Link to Documentation](project3/documentation)
+- **Report:** [Link to Report](project3/report.pdf)
 
-    <section>
-        <h2>Projects</h2>
-        <p>Explore my cybersecurity projects below:</p>
-        <!-- Add your project details here -->
-    </section>
+## Skills
 
-    <section>
-        <h2>Contact</h2>
-        <p>Feel free to reach out to me:</p>
-        <p>Email: your.email@example.com</p>
-        <p>LinkedIn: linkedin.com/in/yourprofile</p>
-    </section>
+- List of cybersecurity skills you possess.
 
-    <footer>
-        <p>&copy; 2023 Your Name. All rights reserved.</p>
-    </footer>
-</body>
+## About Me
 
-</html>
+- Brief introduction about yourself, your passion for cybersecurity, and your career goals.
+
+## Contact
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
+- Twitter: [Your Twitter Profile](https://twitter.com/yourtwitter)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
