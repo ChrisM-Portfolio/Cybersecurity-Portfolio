@@ -2,7 +2,7 @@
 
 Welcome to my Cybersecurity Portfolio! This repository showcases my projects and contributions in the field of cybersecurity.
 
-## Projects; take projects from main repository page
+## Projects
 
 ### Project 1: Title
 
