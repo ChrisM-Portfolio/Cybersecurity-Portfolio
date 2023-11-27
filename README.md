@@ -1,29 +1,3 @@
-cybersecurity-portfolio/
-│
-├── project1/
-│   ├── code/
-│   ├── documentation/
-│   ├── report.pdf
-│   └── README.md
-│
-├── project2/
-│   ├── code/
-│   ├── documentation/
-│   ├── report.pdf
-│   └── README.md
-│
-├── project3/
-│   ├── code/
-│   ├── documentation/
-│   ├── report.pdf
-│   └── README.md
-│
-├── images/
-│   └── screenshot1.png
-│
-├── README.md
-├── .gitignore
-└── LICENSE
 # Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio! This repository showcases my projects and contributions in the field of cybersecurity.
